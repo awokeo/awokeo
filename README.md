@@ -36,7 +36,7 @@
 
 ---
 
-## `About Me`
+## About Me
 
 ```python
 #!/usr/bin/env python3
@@ -109,17 +109,6 @@ class ResearcherProfile:
             "status": "IN_PROGRESS",
             "commitment": "MAXIMUM"
         }
-    
-    def research_philosophy(self):
-        return """
-        ┌─────────────────────────────────────────────────────────┐
-        │  CORE PRINCIPLE: Transparency × Trust × Deployability   │
-        │                                                         │
-        │  Building AI systems that humans can:                   │
-        │    ├─ UNDERSTAND (Explainability)                       │
-        │    ├─ TRUST (Reliability & Safety)                      │
-        │    └─ DEPLOY (Real-world Applications)                  │
-        └─────────────────────────────────────────────────────────┘
         """
 
 # Initialize system
@@ -130,18 +119,16 @@ print(researcher.research_philosophy())
 
 ---
 
-## `[TECH_ARSENAL]` Weaponized Stack
+## Technical Stack
 
-<div align="center">
-
-### `> CORE_LANGUAGES`
+### Languages
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 ![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=000000)
 
-### `> AI_FRAMEWORKS`
+### AI Frameworks
 
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
@@ -149,7 +136,7 @@ print(researcher.research_philosophy())
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 
-### `> SECURITY_TOOLKIT`
+### Security Toolkit
 
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000)
 ![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=000000)
@@ -157,7 +144,7 @@ print(researcher.research_philosophy())
 ![Nmap](https://img.shields.io/badge/NMAP-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000)
 ![Cisco](https://img.shields.io/badge/CISCO_ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000)
 
-### `> INFRASTRUCTURE`
+### Infrastructure
 
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
 ![Git](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
@@ -181,7 +168,7 @@ print(researcher.research_philosophy())
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=awokeo&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM+ACTIVITY+LOG" />
 </p>
 
-## `[CONTACT_PROTOCOLS]` Establish Connection
+## Connect
 
 <div align="center">
 
