@@ -154,21 +154,9 @@ print(researcher.research_philosophy())
 
 ---
 
-<div align="center">
-
-[![ResearchGate](https://img.shields.io/badge/RESEARCHGATE-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&labelColor=000000)](https://www.researchgate.net/profile/Obinna-Awoke)
-[![ACM Member](https://img.shields.io/badge/ACM_MEMBER-0085CA?style=for-the-badge&logo=acm&logoColor=white&labelColor=000000)](https://www.acm.org/)
-[![View Publications](https://img.shields.io/badge/📄_FULL_RESEARCH_ARCHIVE-00ff00?style=for-the-badge&labelColor=000000)](https://www.researchgate.net/profile/Obinna-Awoke)
-
-</div>
-
----
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=awokeo&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM+ACTIVITY+LOG" />
 </p>
-
-## Connect
 
 <div align="center">
 
@@ -178,9 +166,9 @@ $ connect --researcher obinna.awoke
 ```
 
 [![Email](https://img.shields.io/badge/EMAIL_LINK-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:obinna.awoke@eleve.isep.fr)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/obinna-awoke)
-[![ResearchGate](https://img.shields.io/badge/RESEARCH_NETWORK-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=000000)](https://www.researchgate.net/profile/Obinna-Awoke)
-[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/obinna-awoke)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)]([https://linkedin.com/in/obinna-awoke](https://www.linkedin.com/in/obinnakev/))
+[![ResearchGate](https://img.shields.io/badge/RESEARCH_NETWORK-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=000000)]([https://www.researchgate.net/profile/Obinna-Awoke](https://www.researchgate.net/profile/Obinna-Awoke-3))
+[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/awokeo/)
 
 ```python
 # Collaboration opportunities
@@ -213,12 +201,12 @@ $ ./deploy_trustworthy_ai.sh
 ```
 
 </div>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=+%3E+End+of+Transmission...;+%3E+System+Shutting+down+%E2%9A%A1+All+Modules+Shutdown" alt="Typing SVG" />
+</p>
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<div align="center">
-
-`[END_TRANSMISSION]`
 
 </div>
