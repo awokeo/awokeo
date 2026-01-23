@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=+%3E+Initializing+XAI+Research+Protocols...;+%3E+Loading+Cybersecurity+Frameworks...;+%3E+Deploying+Trustworthy+AI+Systems...;+%3E+System+Ready+%E2%9A%A1+All+Modules+Active" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=+%3E+Initializing+XAI+Research+Protocols...;+%3E+Loading+Cybersecurity+Frameworks...;+%3E+Deploying+Trustworthy+AI+Systems..." alt="Typing SVG" />
 </p>
 
 <!-- Profile Stats -->
